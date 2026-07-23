@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630"><rect width="1200" height="630" fill="#f7f7f5"/><rect x="72" y="70" width="64" height="64" rx="18" fill="#20201e"/><text x="104" y="114" text-anchor="middle" font-family="Arial" font-size="30" font-weight="700" fill="white">P</text><text x="72" y="310" font-family="Arial" font-size="84" font-weight="600" fill="#20201e">procurocasa.pt</text><text x="72" y="385" font-family="Arial" font-size="34" fill="#6f6f6a">Domínio premium disponível para aquisição</text><line x1="72" y1="470" x2="1128" y2="470" stroke="#d7d7d1"/><text x="72" y="535" font-family="Arial" font-size="25" fill="#6f6f6a">geral@rafaelrocha.pt</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#4f46e5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#g)"/>
+  <circle cx="1050" cy="80" r="260" fill="#2563eb" opacity=".22"/>
+  <text x="80" y="285" fill="white" font-family="Arial, sans-serif" font-size="78" font-weight="700">ProcuroCasa.pt</text>
+  <text x="82" y="365" fill="#dbeafe" font-family="Arial, sans-serif" font-size="36">Domínio premium disponível para aquisição</text>
+  <rect x="82" y="420" width="330" height="74" rx="18" fill="#2563eb"/>
+  <text x="247" y="468" fill="white" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" font-weight="700">Enviar proposta</text>
+</svg>
